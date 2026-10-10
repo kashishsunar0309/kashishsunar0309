@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋 I'm Kashish Sunar</h1>
 
-<p align="center">
-  <img src="https://github.com/kashishsunar0309.png" width="200" />
-</p>
-
 ```text
 ==+*************..:==-:.....::-:.             .---    kashish@sunar ─────────────────────────────────────
 ==+***********#*..:.        . ..                .:    OS ............ Windows 10, Android 14, Linux
