@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Kashish Sunar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=BIT+1st+Semester+Student;Cybersecurity+Enthusiast;Future+Ethical+Hacker;Open+Source+Contributor" alt="Typing SVG" />
+  <p align="center"><img src="https://github.com/kashishsunar0309.png" width="200" /></p>
 </p>
 
 ```text
