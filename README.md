@@ -1,41 +1,59 @@
-<div align="center">
+<h1 align="center">Hey 👋 I'm Kashish Sunar</h1>
 
-# Hey 👋 I'm Kashish Sunar
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=BIT+1st+Semester+Student;Cybersecurity+Enthusiast;Future+Ethical+Hacker;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=BIT+1st+Semester+Student+%F0%9F%8E%93;Cybersecurity+Enthusiast+%F0%9F%94%90;Future+Ethical+Hacker+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Hackathon+Participant+%F0%9F%8F%86;Security+Operations+Learner+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%F0%9F%9A%A9;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+```text
+    _  __  ____
+   | |/ / / ___|
+   | ' /  \___ \
+   | . \   ___) |
+   |_|\_\ |____/
 
-![Profile Views](https://komarev.com/ghpvc/?username=kashishsunar&color=00F7F7&style=flat-square&label=Profile+Views)
-
-</div>
-
-## 🚀 About Me
-
-**name:** Kashish Sunar  
-**role:** BIT 1st Semester Student & Aspiring Cybersecurity Professional  
-**location:** Nepal 🇳🇵  
+kashish@sunar ─────────────────────────────────────
+OS:          Windows 10, Android 14, Linux
+Role:        BIT 1st Sem Student & Aspiring Cybersecurity Pro
+Location:    Nepal 🇳🇵
+Focus:       Network Security, Web App Security, Pentesting
+Languages:   Python, JavaScript, Bash, C, C++, HTML, CSS
+Security:    Wireshark, Nmap, Burp Suite, Metasploit
+Web/DB:      React, Node.js, MySQL, MongoDB
+Interests:   CTF Challenges, Bug Bounty, Threat Analysis
+Learning:    SIEM, Python for Automation, Ethical Hacking
+Status:      Open to internships & junior analyst roles
+```
 
 ---
 
-### what_i_do:
-- 🔒 **Cybersecurity Enthusiast** - Exploring the world of digital security
-- 💻 **Learning & Building** - Developing skills in security operations
-- 🎓 **Academic Journey** - Currently pursuing Bachelor in Information Technology
-- 🌱 **Growing Mindset** - Constantly learning new technologies and security practices
+### 🚀 About Me
 
-### passionate_about:
-- 🎤 **Participating in tech meetups & workshops**
-- 🛡️ **Building security awareness projects**
-- 👨‍💻 **Creating cybersecurity learning resources**
-- 🤝 **Collaborating on security-focused initiatives**
+**name:** Kashish Sunar
+**role:** BIT 1st Semester Student & Aspiring Cybersecurity Professional
+**location:** Nepal 🇳🇵
 
-### currently_learning:
-- 🔐 **Network Security Fundamentals**
-- 🐍 **Python for Security Automation**
-- 🌐 **Web Application Security**
-- 🔍 **Ethical Hacking & Penetration Testing**
-- 📊 **Security Information & Event Management (SIEM)**
+- 🔒 **Cybersecurity Enthusiast:** exploring the world of digital security
+- 💻 **Learning & Building:** developing skills in security operations
+- 🎓 **Academic Journey:** pursuing a Bachelor in Information Technology
+- 🌱 **Growing Mindset:** always learning new technologies and security practices
 
-### tech_stack:
+### 🎯 Passionate About
+
+- 🎤 Participating in tech meetups & workshops
+- 🛡️ Building security awareness projects
+- 👨‍💻 Creating cybersecurity learning resources
+- 🤝 Collaborating on security-focused initiatives
+
+### 📚 Currently Learning
+
+- 🔐 Network Security Fundamentals
+- 🐍 Python for Security Automation
+- 🌐 Web Application Security
+- 🔍 Ethical Hacking & Penetration Testing
+- 📊 Security Information & Event Management (SIEM)
+
+### 🛠️ Tech Stack
+
 ```python
 skills = {
     "languages": ["Python", "JavaScript", "Bash"],
@@ -46,12 +64,13 @@ skills = {
 }
 ```
 
-### open_to:
-- 🎯 **Cybersecurity internship opportunities**
-- 💼 **Junior security analyst positions**
-- 🌍 **Open-source security project collaborations**
-- 📚 **Learning from experienced security professionals**
-- 🤝 **Networking with fellow cybersecurity enthusiasts**
+### 🤝 Open To
+
+- 🎯 Cybersecurity internship opportunities
+- 💼 Junior security analyst positions
+- 🌍 Open-source security project collaborations
+- 📚 Learning from experienced security professionals
+- 🤝 Networking with fellow cybersecurity enthusiasts
 
 ---
 
@@ -63,18 +82,27 @@ skills = {
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kashishsunar0309&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishsunar0309&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kashishsunar0309&color=00F7F7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/kashish-sunar
-- 📷 Instagram: @kashishshreepali
-- 📧 Email: kashishsunar0912@gamil.com
+- 💼 LinkedIn: [linkedin.com/in/kashish-sunar](https://www.linkedin.com/in/kashish-sunar)
+- 📷 Instagram: [@kashishshreepali](https://instagram.com/kashishshreepali)
+- 📧 Email: [kashishsunar0912@gmail.com](mailto:kashishsunar0912@gmail.com)
 
-------
+---
 
-<div align="center">
-  
-### 💡 "Security is not a product, but a process" 
+### 💡 *"Security is not a product, but a process"*
 
-**⭐ From [kashishsunar](https://github.com/kashishsunar)**
-
-</div>
+⭐ From [kashishsunar](https://github.com/kashishsunar)
